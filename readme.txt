@@ -1,9 +1,9 @@
 Populate Entry
 -------------------------------------------------------------------------------
 
-Version: 1.0.0
+Version: 1.0.1
 Author: Carsten de Vries <carsten@vrieswerk.nl>
-Build Date: 23 July 2009
+Build Date: 19 September 2009
 Github Repository: http://github.com/carsten/populate_entry/tree/master
 Requirements: Symphony 2
 
@@ -29,5 +29,7 @@ Installation
 
 Change Log
 -------------------------------------------------------------------------------
+
+1.0.1 Fixed right arrow character in create new entry link.
 
 1.0.0 Initial Release
