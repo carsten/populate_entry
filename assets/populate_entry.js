@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
 		var entry_id = jQuery('td:first a', this).attr('title');
 		
 		// Append another cell to this row with -> new link
-		jQuery(this).append('<td><a href="./new/?from-entry=' + entry_id + '">&rarr new</a></td>');
+		jQuery(this).append('<td><a href="./new/?from-entry=' + entry_id + '">&rarr; new</a></td>');
 		
 	});
 	
