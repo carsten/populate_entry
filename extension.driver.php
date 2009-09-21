@@ -10,8 +10,8 @@
 		public function about() {
 			return array(
 				'name'			=> 'Populate Entry',
-				'version'		=> '1.0.0',
-				'release-date'	=> '2009-07-23',
+				'version'		=> '1.0.2',
+				'release-date'	=> '2009-01-21',
 				'author'		=> array(
 					'name'			=> 'Carsten de Vries',
 					'website'		=> 'http://www.vrieswerk.nl',
